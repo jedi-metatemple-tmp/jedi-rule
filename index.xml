@@ -1,6 +1,10 @@
 <sect>
 
 <include ref = "jedi-code/index.xml" />
+<include ref = "avoid-straying/index.xml" />
+<include ref = "compassion/index.xml" />
+<include ref = "in-the-moment/index.xml" />
+<include ref = "do-or-do-not/index.xml" />
 <include ref = "simple-living/index.xml" />
 
 </sect>
