@@ -1,0 +1,52 @@
+<sub>
+
+
+
+<!--
+This part makes it clear that the authorship of this Rule harbors no
+intent to usurp anyone else's intellectual property - even where
+incorporating such content into the text of the Rule is necessary.
+-->
+
+<notice><tx>
+<p>
+Some terms used in this document, such as "Star Wars", etc. may be trademarks
+of various parties, such as Lucasfilms, Disney, etcetera.
+No infringement is intended.
+</p>
+<p>
+Brief clips of text from well-known sources are used in this document.
+These clips of text belong to their respective sources.
+No infringement is intended. Their use in this document is intended as Fair Use.
+</p>
+</tx></notice>
+
+
+
+
+
+<!--
+However - as for original work (that being anything that
+someone writes as a contributor to this project)
+is licensed under the Creative Commons Attribution-ShareAlike
+4.0 International License
+
+Please do not even THINK about submitting a pull-request
+on GIT or otherwise submitting any contribution to this
+project if you're not 100% okay with this and/or otherwise
+don't (or can't) agree to it!!!
+-->
+
+<notice>
+<realm>All <i>original</i> work in this document</realm>
+<own by = "Respective authors">
+<when>2016-</when>
+</own>
+
+<tx>
+<p>This work is licensed under a <link ref = "http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</link>.</p>
+</tx>
+
+</notice>
+
+</sub>
