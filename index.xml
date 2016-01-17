@@ -3,6 +3,7 @@
 <include ref = "licensestuff.xml" />
 <include ref = "jedi-code/index.xml" />
 <include ref = "avoid-straying/index.xml" />
+<include ref = "roles-wtn-jedi/index.xml" />
 <include ref = "dark-side/index.xml" />
 <include ref = "compassion/index.xml" />
 <include ref = "in-the-moment/index.xml" />
