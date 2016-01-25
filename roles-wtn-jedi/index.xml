@@ -3,6 +3,9 @@
 
 <include ref = "on_intro.xml" />
 <include ref = "on_initiates.xml" />
-
+<include ref = "on_padawans.xml" />
+<include ref = "on_knights.xml" />
+<include ref = "on_masters.xml" />
+<include ref = "on_functionaries.xml" />
 
 </sect>
