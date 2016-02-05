@@ -38,7 +38,7 @@ don't (or can't) agree to it!!!
 -->
 
 <notice>
-<synonym ref = "synonymauth.dat"><!-- Identifies multiple identification-forms of same authors -->
+<synonym ref = "synonymauth.dat" /><!-- Identifies multiple identification-forms of same authors -->
 <realm>All <i>original</i> work in this document</realm>
 <own by = "Respective authors">
 <yearspan dir = "." /><!-- Shows all years of this project -->
