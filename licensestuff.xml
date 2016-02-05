@@ -38,13 +38,25 @@ don't (or can't) agree to it!!!
 -->
 
 <notice>
+<synonym ref = "synonymauth.dat"><!-- Identifies multiple identification-forms of same authors -->
 <realm>All <i>original</i> work in this document</realm>
 <own by = "Respective authors">
-<when>2016-</when>
+<yearspan dir = "." /><!-- Shows all years of this project -->
 </own>
 
 <tx>
 <p>This work is licensed under a <link ref = "http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</link>.</p>
+</tx>
+
+<credits dir = ".">Direct contributors to this project are as follows:</credits>
+
+<tx>
+<p>If you make a content contribution to this project via a GIT pull-request or any other
+means, you are (a) irreversibly agreeing that for said contributions to be licensed under the
+above terms and (b) affirming that permission to license it under these terms
+is indeed yours to give.
+Do not
+make any content contributions unless both these requirements are met.</p>
 </tx>
 
 </notice>
