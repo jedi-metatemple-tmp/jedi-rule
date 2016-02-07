@@ -1,4 +1,5 @@
 <sect>
+<title>An Introductory Rule for Jedi</title>
 
 <include ref = "licensestuff.xml" />
 <include ref = "jedi-code/index.xml" />
