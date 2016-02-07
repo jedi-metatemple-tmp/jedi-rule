@@ -6,6 +6,7 @@
 <include ref = "on_padawans.xml" />
 <include ref = "on_knights.xml" />
 <include ref = "on_masters.xml" />
+<include ref = "roles_vs_ranks.xml" />
 <include ref = "on_functionaries.xml" />
 
 </sect>
