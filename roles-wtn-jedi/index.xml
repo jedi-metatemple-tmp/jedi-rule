@@ -5,6 +5,7 @@
 <include ref = "on_initiates.xml" />
 <include ref = "on_padawans.xml" />
 <include ref = "on_knights.xml" />
+<include ref = "ronin_padawan.xml" />
 <include ref = "on_masters.xml" />
 <include ref = "roles_vs_ranks.xml" />
 <include ref = "on_functionaries.xml" />
