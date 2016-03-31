@@ -7,6 +7,7 @@
 <include ref = "dark-side/index.xml" />
 <include ref = "roles-wtn-jedi/index.xml" />
 <include ref = "metatemple/index.xml" />
+<include ref = "technical-council/index.xml" />
 <include ref = "compassion/index.xml" />
 <include ref = "in-the-moment/index.xml" />
 <include ref = "do-or-do-not/index.xml" />
