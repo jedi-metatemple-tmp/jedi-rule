@@ -1,6 +1,9 @@
 <sect>
 <title>Jedi Rule of the Midnight Academy</title>
 
+<extxcl id = "sw" tmpl = "starwars" expl = "Expanded text - STAR WARS references" />
+<extxcl id = "docbg" tmpl = "docstory" expl = "Expanded text - STAR WARS references" rqtitle = "yes" />
+
 <include ref = "licensestuff.xml" />
 <include ref = "jedi-code/index.xml" />
 <include ref = "avoid-straying/index.xml" />
