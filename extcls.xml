@@ -1,6 +1,8 @@
 <sub>
 
 <extxcl id = "sw" tmpl = "starwars" expl = "Expanded text - STAR WARS references" />
+<extxcl id = "note" tmpl = "note" expl = "Expanded text - Further elaborations beyond what is in the basic text" />
 <extxcl id = "docbg" tmpl = "docstory" expl = "Expanded text - document background" rqtitle = "yes" />
+<extxcl id = "plch" tmpl = "placeholder" expl = "Placeholder text - for when the actual text isn't ready" />
 
 </sub>
