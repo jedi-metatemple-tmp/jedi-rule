@@ -1,0 +1,8 @@
+<sect>
+<title>On How New Jedi Join the Metatemple</title>
+
+<include ref = "first-phase.xml" />
+<include ref = "second-phase.xml" />
+<include ref = "welcoming.xml" />
+
+</sect>
