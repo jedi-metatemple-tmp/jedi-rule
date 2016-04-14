@@ -1,0 +1,8 @@
+<sect>
+<title>On the Commitments Made by a Jedi</title>
+
+<include ref = "first-commitment.xml" />
+<include ref = "second-commitment.xml" />
+<include ref = "third-commitment.xml" />
+
+</sect>
