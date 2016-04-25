@@ -1,0 +1,9 @@
+<sect>
+<title>On Jedi Attire</title>
+
+<include ref = "intro.xml" />
+<include ref = "utility.xml" />
+<include ref = "simplicity.xml" />
+<include ref = "no-modest.xml" />
+
+</sect>

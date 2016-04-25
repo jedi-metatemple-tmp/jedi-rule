@@ -18,5 +18,6 @@
 <include ref = "do-or-do-not/index.xml" />
 <include ref = "decent-jedi-conduct/index.xml" />
 <include ref = "simple-living/index.xml" />
+<include ref = "jedi-attire/index.xml" />
 
 </sect>
