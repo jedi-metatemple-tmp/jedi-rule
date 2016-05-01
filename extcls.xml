@@ -5,4 +5,14 @@
 <extxcl id = "docbg" tmpl = "docstory" expl = "Expanded text - document background" rqtitle = "yes" />
 <extxcl id = "plch" tmpl = "placeholder" expl = "Placeholder text - for when the actual text isn't ready" />
 
+
+<extxcl id = "guestcmt" tmpl = "guest_comment" expl = "Commentary from Non-Regular Commentators" rqtitle = "yes" />
+<!-- For extended-text of this class, the "title" should specify the name of the commentator and nothing else. -->
+<!-- This extended-text class is only for non-regular commentators. If a commentator turns out to be *regular*,
+zie should be given a designated class called "cmt:<name>" with a "tmplt" field of "cmnt/<name>" in which the
+string "<name>" is substituted-out by a unique string identifying that particular commentator. Such classes
+designated to individual commentators (unlike the one for non-regualr commentators) must *not* call for a title
+element - and all commentaries attributed to that commentator should be re-assigned to that class, and their
+title-elements removed. -->
+
 </sub>
