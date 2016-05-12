@@ -4,12 +4,9 @@
 
 
 
-<include ref = "intro.xml" />
 <include ref = "gamers/index.xml" />
 <include ref = "fluffybunny/index.xml" />
 <include ref = "martial/index.xml" />
-
-
 
 <include ref = "dark-jedi/index.xml" />
 
