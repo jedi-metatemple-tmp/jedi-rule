@@ -7,6 +7,7 @@
 <include ref = "jedi-code/index.xml" />
 <include ref = "avoid-straying/index.xml" />
 <include ref = "dark-side/index.xml" />
+<!-- ADD LATER: <include ref = "on-death/index.xml" /> -->
 <include ref = "roles-wtn-jedi/index.xml" />
 <include ref = "metatemple/index.xml" />
 <include ref = "the-commitments/index.xml" />
